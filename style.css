@@ -1,0 +1,44 @@
+body{
+    background-color: #F0F0F0;
+    margin: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-item {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.text-box {
+    width: 35%;
+    margin-left: 18%;
+    margin-top: 12%;
+}
+
+.social-media-icons {
+    margin-left: 18%;
+}
+
+.fab {
+    margin: 16px 12px 0px 0px;
+    font-size: 24px;
+    width: 50px;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+}
+
+a:visited{
+    color: #000;
+}
+
+a:hover{
+    color: red;
+}
